@@ -6,7 +6,7 @@ A sleek, modern, and fully responsive car landing page built using **HTML**, **C
 
 ## 🔗 Live Demo
 
-> ##🌐 [Click here to view the live demo]  
+> ## 🌐 [Click here to view the live demo]  
 > https://jspharry.github.io/Responsive-Car-Website/
 
 ---
